@@ -1,0 +1,8 @@
+# editor/system
+.DS_Store
+*.swp
+# python/venv (future)
+.venv/
+__pycache__/
+# outputs
+reports/*
