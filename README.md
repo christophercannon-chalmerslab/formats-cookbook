@@ -9,8 +9,3 @@ I’ll add one small, well-documented example per format (FASTA/FASTQ, GFF3, BED
 - `reports/`  — outputs from scripts
 - `notes/`    — brief gotchas & reference snippets
 
-## Day 1 checklist
-- [x] WSL2 + Ubuntu installed
-- [x] Core CLI tools installed
-- [x] Git configured with SSH
-- [x] Repo skeleton created
